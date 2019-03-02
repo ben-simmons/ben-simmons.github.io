@@ -3,8 +3,6 @@ layout: post
 title: Musings on Information
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 Information is the measure of certainty. It is the most primitive unit of description. It is a fundamental property of the universe. It tethers the abstract plane to the physical.
 
 Truth is information about reality. Information that does not correspond to reality is false. Information can be fractionally true and false, as with probabilities.
