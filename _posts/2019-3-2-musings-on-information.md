@@ -7,7 +7,7 @@ Information is the measure of certainty. It is the most primitive unit of descri
 
 Truth is information about reality. Information that does not correspond to reality is false. Information can be fractionally true and false, as with probabilities.
 
-A statement is a mapping of information to information. When the information is the same on both sides of the mapping, the statement is a tautology. Statements can be true, false, or both via superimposition.
+A statement is a mapping of information to information. When the information is the same on both sides of the mapping, the statement is a tautology. Statements can be true, false, or both fuzzily via probabilities, or both discretely via superimposition.
 
 A fact is a statement where information on both sides of the mapping is true.
 
