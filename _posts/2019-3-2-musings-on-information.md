@@ -19,4 +19,4 @@ Context is a collection of knowledge sets.
 
 Intelligence is the ability to synthesize information maps. It is the ability to transform information. It often involves inference of facts and causations that are not part of a knowledge set.
 
-Wisdom is the ability to accurrately infer facts and causations using heuristical reasoning on a large set of context.
+Wisdom is the ability to accurately infer facts and causations using heuristical reasoning on a large set of context.
